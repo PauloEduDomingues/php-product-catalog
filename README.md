@@ -96,10 +96,6 @@ Se estiver usando Apache ou Nginx, configure seu servidor para apontar para a pa
   - `views/` - Templates e componentes visuais
 - `vendor/` - Dependências gerenciadas pelo Composer
 
-## Personalização
-
-Para personalizar o visual do site, você pode editar o arquivo `src/styles.css`, que contém todos os estilos aplicados à aplicação.
-
 ## Problemas comuns
 
 ### Erro de conexão com o banco de dados
